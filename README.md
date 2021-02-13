@@ -2,4 +2,4 @@
 
 [scrin-1](./scrins/scrin-1.JPG) <br>
 
-[scrin-2](./scrins/scrin-1.JPG)
+[scrin-2](./scrins/scrin-2.JPG)
